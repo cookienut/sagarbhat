@@ -1,0 +1,20 @@
+<div class="wrapper-footer">
+  <div class="container">
+    <footer class="footer">
+      <div class="social-menu">
+        <ul>
+          {% if site.footer-links.email %}<li><a href="mailto:{{ site.footer-links.email }}"><i class="fa fa-envelope"></i></a></li>{% endif %}
+          {% if site.footer-links.linkedin %}<li><a href="https://www.linkedin.com/in/{{ site.footer-links.linkedin }}"><i class="fa fa-linkedin"></i></a></li>{% endif %}
+          {% if site.footer-links.instagram %}<li><a href="https://instagram.com/{{ site.footer-links.instagram }}"><i class="fa fa-instagram"></i></a></li>{% endif %}
+          {% if site.footer-links.github %}<li><a href="https://github.com/{{ site.footer-links.github }}"><i class="fa fa-github"></i></a></li>{% endif %}
+          {% if site.footer-links.stackoverflow %}<li><a href=""><i class="fa fa-stack-overflow"></i></a></li>{% endif %}
+          {% if site.footer-links.hackerrank %}<li><a href="https://www.hackerrank.com/{{ site.footer-links.hackerrank }}"><i class="fa fa-code"></i></a></li>{% endif %}
+          {% if site.footer-links.youtube %}<li><a href="https://youtube.com/{{ site.footer-links.youtube }}"><i class="fa fa-youtube"></i></a></li>{% endif %}
+        </ul>
+      </div>
+      <!-- <div class="footer-msg">
+        Powered by <a href="https://jekyllrb.com/">Jekyll</a> and <a href="https://pages.github.com/"> Github Pages.</a>
+      </div> -->
+    </footer>
+  </div>
+</div>
