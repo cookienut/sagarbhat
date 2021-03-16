@@ -13,7 +13,7 @@ Compressive list of the tools and technologies, I usually work with.
 | Category       | Tools & Technologies                       |
 | -------------- | ------------------------------------------ |
 | Prog Languages | `Python, C, C++, Java, JS`                 |
-| Web Frameworks | `Flask, Django, Angular`                   |
+| Web Frameworks | `Aiohttp, Flask, Django, Angular, VueJS`   |
 | Databases      | `Elasticsearch, MySQL, SQLite, MongoDB`    |
 | Documentation  | `Swagger, Flask-Restplus`                  |
 | App Servers    | `uWSGI, Apache`                            |
@@ -32,13 +32,13 @@ Compressive list of the tools and technologies, I usually work with.
 
 2\. **Intermediate**:
 
-| --------------------------------------------------------------- |
-| `C, C++, Java, Docker, MongoDB, Pyautogui, Websockets, Asyncio` |
+| --------------------------------------------------------------------- |
+| `C, C++, Java, Django, Aiohhtp, Docker, MongoDB, Websockets, Asyncio` |
 
 3\. **Basic**:
 
-| ------------------------------ |
-| `Javascript, CSS, Angular` |
+| --------------------------------- |
+| `Javascript, CSS, Angular, VueJS` |
 
 
 <div markdown=1 class="next-previous">

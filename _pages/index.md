@@ -16,16 +16,16 @@ Feel free to take a look at [My Projects](#projects) and [My Skills]({{ site.bas
 
 | Role                         | Organization | Location     | Period             |
 |----------------------------- | ------------ | ------------ | ------------------ |
-| 1. Software Engg (API Lead)  | `Xoriant`    | Pune, India  | `Jul'17 - Mar'20`  |
-| 2. Freelance Developer       | `N/A`        | Jammu, India | `Jul'20 - Present` |
+| 1. Software Engg (FullStack) | `BetterWorks`| Remote, US   | `Feb'21 - Present` |
+| 2. Software Engg (API Lead)  | `Xoriant`    | Pune, India  | `Jul'17 - Mar'20`  |
 
 <details markdown=1>
   <summary class="list-more-details"> See details. </summary>
-  1\. At Xoriant, as `API Lead` on the project [Nutanix File Analytics]({{ site.baseurl }}/getting-started/){:target="blank"}, I led the API team of three, and developed **scripts, REST APIs & unit tests** with several core technologies such as `Python, Flask, Docker, ElasticSearch, Kafka, Pytest & Swagger`.
+  1\. At BetterWorks, I currently work as a `FullStack developer` building analytic-services for Betterworks OKR platform using mainly `Django`, `Aiohttp` and `VueJS`.
 
-  2\. In `Jan 2020`, due to some health concerns, I was advised to take some time off and I did. I served my notice period and went on vacation. That is when I came across `Freelancing` and the wonderful opportunities it offers.
+  2\. Before joining Betterworks, I was working as a `Freelancer`. As a freelance developer, I had the opportunity to explore and work on some really interesting projects, involving `Docker, Websockets, Aiohttp, Pyautogui` and more.
 
-  3\. As a freelance developer, I've had the opportunity to explore and work on some really interesting projects, involving `Docker, Websockets, Aiohttp, Pyautogui` and more.
+  3\. At Xoriant, as `API Lead` on the project [Nutanix File Analytics]({{ site.baseurl }}/getting-started/){:target="blank"}, I led the API team of three, and developed **scripts, REST APIs & unit tests** with several core technologies such as `Python, Flask, Docker, ElasticSearch, Kafka, Pytest & Swagger`.
 </details>
 
 For more details on my previous roles and work, see [My Resume/CV](https://drive.google.com/file/d/1Kk_mSHYgoKXK865K1vVWsfVzr_BpvBaC/view){:target="blank"}.
@@ -49,7 +49,7 @@ For more details on my previous roles and work, see [My Resume/CV](https://drive
 - [x] Build with community; for community.
 </details>
 
-**3\)** **Auto-Webapps** - A simple and configurable, message automation suite for web apps such as Whatsapp, Instagram etc. For more details, see [Auto-Webapps](https://github.com/cookienut/WebApp-Spammer){:target="blank"}.
+**3\)** **Webato** - A simple and configurable, message automation suite for web apps such as Whatsapp, Instagram etc. For more details, see [Auto-Webapps](https://github.com/cookienut/WebApp-Spammer){:target="blank"}.
 <details markdown=1>
   <summary class="more-details"> See details. </summary>
 - [x] Written in `Python3` using `Pyautogui` library.
@@ -80,14 +80,14 @@ For more details on my previous roles and work, see [My Resume/CV](https://drive
 - [x] Can be studied as a `quickstart-example` to start building chrome extensions.
 </details>
 
-**7\)** **Falcon** - A basic web application built on top of `Angular-Quickstart` which demonstrates how to build Angular web apps. For more details, see [Falcon](https://github.com/cookienut/Falcon-Angular2-Project){:target="blank"}.
+<!-- **7\)** **Falcon** - A basic web application built on top of `Angular-Quickstart` which demonstrates how to build Angular web apps. For more details, see [Falcon](https://github.com/cookienut/Falcon-Angular2-Project){:target="blank"}.
 <details markdown=1>
   <summary class="more-details"> See details. </summary>
 - [x] Built with `HTML, CSS, JS` & `Angular`.
 - [x] Easy-to-understand code demonstartes how to start building the web app.
-</details>
+</details> -->
 
-**8\)** **Mockery** - A `mock-server` written purely in python. It provides API consumers an easy hassle-free way to work. `This is currently under development`.
+**7\)** **Mockery** - A `mock-server` written purely in python. It provides API consumers an easy hassle-free way to work. `This is currently under development`.
 <details markdown=1>
   <summary class="more-details"> See details. </summary>
 - [x] It provides `CLI` options to start the mock-server service.
@@ -100,14 +100,14 @@ For more details on my previous roles and work, see [My Resume/CV](https://drive
 
 | Role                | Organization   | Location           | Period            |
 |-------------------- | -------------- | ------------------ | ----------------- |
-| 1. Teacher          | `Seva Sahayog` | Pune, India        | `Dec'17 - Jan'18` |
-| 2. Development Lead | `iCapotech`    | Navi Mumbai, India | `Mar'20 - Jul'20` |
+| 1. Development Lead | `iCapotech`    | Navi Mumbai, India | `Mar'20 - Jul'20` |
+| 2. Teacher          | `Seva Sahayog` | Pune, India        | `Dec'17 - Jan'18` |
 
 <details markdown=1>
   <summary class="list-more-details"> See details. </summary>
-  1\. As a volunteering teacher, taught **Computers**, **Science** and **Mathematics** to some underprivileged children studying at `Ambedkar Vasahat Abhyasika`.
+  1\. During the initial period of Covid-19 pandemic, helped `iCapotech Pvt. Ltd.` to build a symptom tracking solution for communities with help of developers from `Veritas`, `Calsoft` and `Keyvertex Tech`.
 
-  2\. During the initial period of Covid-19 pandemic, helped `iCapotech Pvt. Ltd.` to build a symptom tracking solution for communities with help of developers from `Veritas`, `Calsoft` and `Keyvertex Tech`.
+  2\. As a volunteering teacher, taught **Computers**, **Science** and **Mathematics** to some underprivileged children studying at `Ambedkar Vasahat Abhyasika`.
 </details>
 
 
@@ -115,14 +115,15 @@ For more details on my previous roles and work, see [My Resume/CV](https://drive
 
 | Qualification               | School/University | Location     | Year | Grade  |
 |---------------------------- | ----------------- | ------------ | ---- | ------ |
-| 1. HSC                      | `JK Montessorie`  | Jammu, India | 2013 | 9.4/10 |
-| 2. Bachelor of Engg (I.T.)  | `Pune University` | Pune, India  | 2017 | 8.3/10 |
+| 1. Bachelor of Engg (I.T.)  | `Pune University` | Pune, India  | 2017 | 8.3/10 |
+| 2. HSC                      | `JK Montessorie`  | Jammu, India | 2013 | 9.4/10 |
 
 <details markdown=1>
   <summary class="list-more-details"> See details. </summary>
-  1\. Completed Higher Secondary School Certification (12th standard) from `JK Montessorie Senior Secondary School, Jammu`.
 
-  2\. Reveived Bachelor's degree in `Information Technology` at [SKNCOE, Pune](http://cms.sinhgad.edu/sinhgad_engineering_institutes/skncoe_vadgaon/institute_details.aspx){:target="blank"} an esteemed college affiliated to [Savitribai Phule Pune University](http://www.unipune.ac.in/university_files/about_university.htm){:target="blank"} (previously University of Pune).
+  1\. Reveived Bachelor's degree in `Information Technology` at [SKNCOE, Pune](http://cms.sinhgad.edu/sinhgad_engineering_institutes/skncoe_vadgaon/institute_details.aspx){:target="blank"} an esteemed college affiliated to [Savitribai Phule Pune University](http://www.unipune.ac.in/university_files/about_university.htm){:target="blank"} (previously University of Pune).
+
+  2\. Completed Higher Secondary School Certification (12th standard) from `JK Montessorie Senior Secondary School, Jammu`.
 </details>
 
 <div markdown=1 class="next-previous">

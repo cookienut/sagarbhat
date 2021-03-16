@@ -17,7 +17,6 @@ permalink: /awards/
   <summary> See more. </summary>
   Developed a symptom tracking solution for communities with the [CHAOS Team](https://www.covid19tracks.in/chaos.html){:target="blank"} and lead the design and development on the project. An excerpt from the letter:
   ![Appreciation]({{ site.baseurl }}/images/appreciation.png)
-  Click here for the complete [letter](https://drive.google.com/file/d/1uV3Pv7MoP9egh5wQhWE33J4nKabbEUrP){:target="blank"}.
 </details>
 
 # Achievements
